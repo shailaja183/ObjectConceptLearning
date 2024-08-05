@@ -1,0 +1,72 @@
+{
+    "airplane": [
+        "Does the object in the image have sleek?",
+        "Does the object in the image have metallic?",
+        "Does the object in the image have pointed wings?",
+        "Does the object in the image have long body?",
+        "Does the object in the image have white and silver?"
+    ],
+    "automobile": [
+        "Does the object in the image have sleek design?",
+        "Does the object in the image have shiny black exterior?",
+        "Does the object in the image have four doors?",
+        "Does the object in the image have alloy wheels?",
+        "Does the object in the image have sporty look?"
+    ],
+    "bird": [
+        "Does the object in the image have small and slender?",
+        "Does the object in the image have long and pointed beak?",
+        "Does the object in the image have brown and white feathers?",
+        "Does the object in the image have white eye-ring?",
+        "Does the object in the image have long tail feathers?"
+    ],
+    "cat": [
+        "Does the object in the image have fluffy fur?",
+        "Does the object in the image have bright green eyes?",
+        "Does the object in the image have small nose?",
+        "Does the object in the image have long tail?",
+        "Does the object in the image have white paws?"
+    ],
+    "deer": [
+        "Does the object in the image have large, brown eyes?",
+        "Does the object in the image have long, graceful neck?",
+        "Does the object in the image have reddish-brown fur?",
+        "Does the object in the image have white spots?",
+        "Does the object in the image have long, thin legs?"
+    ],
+    "dog": [
+        "Does the object in the image have fluffy white fur?",
+        "Does the object in the image have big brown eyes?",
+        "Does the object in the image have pointy ears?",
+        "Does the object in the image have long snout?",
+        "Does the object in the image have curly tail?"
+    ],
+    "frog": [
+        "Does the object in the image have green?",
+        "Does the object in the image have smooth skin?",
+        "Does the object in the image have long legs?",
+        "Does the object in the image have bulging eyes?",
+        "Does the object in the image have webbed feet?"
+    ],
+    "horse": [
+        "Does the object in the image have sleek body?",
+        "Does the object in the image have long mane?",
+        "Does the object in the image have muscular legs?",
+        "Does the object in the image have dark coat?",
+        "Does the object in the image have bright eyes?"
+    ],
+    "ship": [
+        "Does the object in the image have large?",
+        "Does the object in the image have white?",
+        "Does the object in the image have pointy bow?",
+        "Does the object in the image have red stripes?",
+        "Does the object in the image have two masts?"
+    ],
+    "truck": [
+        "Does the object in the image have big?",
+        "Does the object in the image have red?",
+        "Does the object in the image have rusty?",
+        "Does the object in the image have dented?",
+        "Does the object in the image have dirty?"
+    ]
+}

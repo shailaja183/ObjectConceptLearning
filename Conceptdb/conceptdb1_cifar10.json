@@ -1,0 +1,32 @@
+{
+    "airplane": [
+        "a sleek metal bird."
+    ],
+    "automobile": [
+        "modern and sleek."
+    ],
+    "bird": [
+        "small, brown, and sparrow-like."
+    ],
+    "cat": [
+        "fluffy and sleek."
+    ],
+    "deer": [
+        "graceful and majestic."
+    ],
+    "dog": [
+        "fluffy and friendly."
+    ],
+    "frog": [
+        "green and slimy."
+    ],
+    "horse": [
+        "the horse is sleek and majestic."
+    ],
+    "ship": [
+        "a majestic sailing vessel."
+    ],
+    "truck": [
+        "large and boxy."
+    ]
+}

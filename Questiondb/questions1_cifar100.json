@@ -1,0 +1,302 @@
+{
+    "beaver": [
+        "Does the object in the image have a large, brown, flat-tailed rodent?"
+    ],
+    "dolphin": [
+        "Does the object in the image have smooth and sleek?"
+    ],
+    "otter": [
+        "Does the object in the image have cute and playful?"
+    ],
+    "seal": [
+        "Does the object in the image have a black and white seal with a curved tail?"
+    ],
+    "whale": [
+        "Does the object in the image have gigantic and majestic?"
+    ],
+    "aquarium fish": [
+        "Does the object in the image have brightly colored and vibrant?"
+    ],
+    "flatfish": [
+        "Does the object in the image have flat and oval-shaped?"
+    ],
+    "ray": [
+        "Does the object in the image have a straight line extending from a point?"
+    ],
+    "shark": [
+        "Does the object in the image have large and menacing?"
+    ],
+    "trout": [
+        "Does the object in the image have sleek and silver?"
+    ],
+    "orchids": [
+        "Does the object in the image have beautiful, delicate blooms?"
+    ],
+    "poppies": [
+        "Does the object in the image have vibrant red petals?"
+    ],
+    "roses": [
+        "Does the object in the image have beautiful, vibrant red?"
+    ],
+    "sunflowers": [
+        "Does the object in the image have bright and cheerful?"
+    ],
+    "tulips": [
+        "Does the object in the image have vibrant and colorful?"
+    ],
+    "bottles": [
+        "Does the object in the image have clear glass bottles with labels?"
+    ],
+    "bowls": [
+        "Does the object in the image have smooth, curved lines?"
+    ],
+    "cans": [
+        "Does the object in the image have cans with colorful designs?"
+    ],
+    "cups": [
+        "Does the object in the image have cups with colorful designs?"
+    ],
+    "plates": [
+        "Does the object in the image have colorful and intricate designs?"
+    ],
+    "apples": [
+        "Does the object in the image have bright and juicy?"
+    ],
+    "mushrooms": [
+        "Does the object in the image have small, brown, and umbrella-shaped?"
+    ],
+    "oranges": [
+        "Does the object in the image have bright and juicy?"
+    ],
+    "pears": [
+        "Does the object in the image have ripe and juicy?"
+    ],
+    "sweet peppers": [
+        "Does the object in the image have bright and colorful?"
+    ],
+    "clock": [
+        "Does the object in the image have old-fashioned, round face?"
+    ],
+    "computer keyboard": [
+        "Does the object in the image have qwerty layout of keys?"
+    ],
+    "lamp": [
+        "Does the object in the image have bright and modern?"
+    ],
+    "telephone": [
+        "Does the object in the image have a small rectangular device with a keypad and receiver?"
+    ],
+    "television": [
+        "Does the object in the image have modern, sleek design?"
+    ],
+    "bed": [
+        "Does the object in the image have soft and inviting?"
+    ],
+    "chair": [
+        "Does the object in the image have comfortable and modern?"
+    ],
+    "couch": [
+        "Does the object in the image have comfortable and stylish?"
+    ],
+    "table": [
+        "Does the object in the image have clean and organized?"
+    ],
+    "wardrobe": [
+        "Does the object in the image have stylish and modern?"
+    ],
+    "bee": [
+        "Does the object in the image have small and fuzzy?"
+    ],
+    "beetle": [
+        "Does the object in the image have small and shiny?"
+    ],
+    "butterfly": [
+        "Does the object in the image have brightly colored wings?"
+    ],
+    "caterpillar": [
+        "Does the object in the image have a fuzzy, striped caterpillar?"
+    ],
+    "cockroach": [
+        "Does the object in the image have long, flat, and brown?"
+    ],
+    "bear": [
+        "Does the object in the image have fluffy and brown?"
+    ],
+    "leopard": [
+        "Does the object in the image have a spotted, powerful predator?"
+    ],
+    "lion": [
+        "Does the object in the image have majestic and powerful?"
+    ],
+    "tiger": [
+        "Does the object in the image have fierce orange stripes?"
+    ],
+    "wolf": [
+        "Does the object in the image have fierce and wild?"
+    ],
+    "bridge": [
+        "Does the object in the image have a majestic arch spanning the river?"
+    ],
+    "castle": [
+        "Does the object in the image have a majestic fortress?"
+    ],
+    "house": [
+        "Does the object in the image have cozy and inviting?"
+    ],
+    "road": [
+        "Does the object in the image have windy and winding?"
+    ],
+    "skyscraper": [
+        "Does the object in the image have tall and imposing?"
+    ],
+    "cloud": [
+        "Does the object in the image have cottony white wisps in the sky?"
+    ],
+    "forest": [
+        "Does the object in the image have tall trees and lush foliage?"
+    ],
+    "mountain": [
+        "Does the object in the image have majestic and imposing?"
+    ],
+    "plain": [
+        "Does the object in the image have flat and grassy?"
+    ],
+    "sea": [
+        "Does the object in the image have the sea is a vast expanse of blue?"
+    ],
+    "camel": [
+        "Does the object in the image have long-necked and humped?"
+    ],
+    "cattle": [
+        "Does the object in the image have the cattle is large and brown?"
+    ],
+    "chimpanzee": [
+        "Does the object in the image have a furry, black and tan primate?"
+    ],
+    "elephant": [
+        "Does the object in the image have large and gray?"
+    ],
+    "kangaroo": [
+        "Does the object in the image have long-legged marsupial with a large tail?"
+    ],
+    "fox": [
+        "Does the object in the image have the fox has a sleek, reddish-orange coat?"
+    ],
+    "porcupine": [
+        "Does the object in the image have a spiky, furry creature?"
+    ],
+    "possum": [
+        "Does the object in the image have furry, long-tailed marsupial?"
+    ],
+    "raccoon": [
+        "Does the object in the image have a bushy-tailed, masked bandit?"
+    ],
+    "skunk": [
+        "Does the object in the image have black and white fur, bushy tail?"
+    ],
+    "crab": [
+        "Does the object in the image have small and round with pincers?"
+    ],
+    "lobster": [
+        "Does the object in the image have red and spiny?"
+    ],
+    "snail": [
+        "Does the object in the image have slow and slimy?"
+    ],
+    "spider": [
+        "Does the object in the image have long-legged and hairy?"
+    ],
+    "worm": [
+        "Does the object in the image have long and slimy?"
+    ],
+    "baby": [
+        "Does the object in the image have adorable and chubby?"
+    ],
+    "boy": [
+        "Does the object in the image have the boy looks handsome?"
+    ],
+    "girl": [
+        "Does the object in the image have pretty and petite?"
+    ],
+    "man": [
+        "Does the object in the image have tall and slim?"
+    ],
+    "woman": [
+        "Does the object in the image have she looks beautiful?"
+    ],
+    "crocodile": [
+        "Does the object in the image have large and scaly?"
+    ],
+    "dinosaur": [
+        "Does the object in the image have large, reptilian creature?"
+    ],
+    "lizard": [
+        "Does the object in the image have long-bodied, scaly reptile?"
+    ],
+    "snake": [
+        "Does the object in the image have slithering and slimy?"
+    ],
+    "turtle": [
+        "Does the object in the image have slow and steady?"
+    ],
+    "hamster": [
+        "Does the object in the image have fluffy and round?"
+    ],
+    "mouse": [
+        "Does the object in the image have small, furry, with a long tail?"
+    ],
+    "rabbit": [
+        "Does the object in the image have fluffy and white?"
+    ],
+    "shrew": [
+        "Does the object in the image have small, furry, and pointy-nosed?"
+    ],
+    "squirrel": [
+        "Does the object in the image have furry and bushy-tailed?"
+    ],
+    "maple": [
+        "Does the object in the image have bright red and orange leaves?"
+    ],
+    "oak": [
+        "Does the object in the image have majestic and strong?"
+    ],
+    "palm": [
+        "Does the object in the image have tall and slender?"
+    ],
+    "pine": [
+        "Does the object in the image have tall and evergreen?"
+    ],
+    "willow": [
+        "Does the object in the image have weeping willow tree?"
+    ],
+    "bicycle": [
+        "Does the object in the image have a sleek, black bike?"
+    ],
+    "bus": [
+        "Does the object in the image have large and boxy?"
+    ],
+    "motorcycle": [
+        "Does the object in the image have a sleek, black two-wheeled machine?"
+    ],
+    "pickup truck": [
+        "Does the object in the image have large and rugged?"
+    ],
+    "train": [
+        "Does the object in the image have long and sleek?"
+    ],
+    "lawn-mower": [
+        "Does the object in the image have small, green, and noisy?"
+    ],
+    "rocket": [
+        "Does the object in the image have a tall, slim, pointed object?"
+    ],
+    "streetcar": [
+        "Does the object in the image have old-fashioned, vintage style?"
+    ],
+    "tank": [
+        "Does the object in the image have a large, metal, rectangular container?"
+    ],
+    "tractor": [
+        "Does the object in the image have old-fashioned, bright red?"
+    ]
+}

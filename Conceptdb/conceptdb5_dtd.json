@@ -1,0 +1,339 @@
+{
+    "banded": [
+        "stripes of color",
+        "alternating bands",
+        "gradient effect",
+        "colorful pattern",
+        "geometric shapes"
+    ],
+    "blotchy": [
+        "rough",
+        "patchy",
+        "splotchy",
+        "uneven",
+        "discolored"
+    ],
+    "braided": [
+        "intertwined strands",
+        "thick and thin sections",
+        "varying colors",
+        "soft and smooth",
+        "intricate pattern"
+    ],
+    "bubbly": [
+        "crisp",
+        "light",
+        "foamy",
+        "bubbling",
+        "airy"
+    ],
+    "bumpy": [
+        "rough",
+        "uneven",
+        "irregular",
+        "ridged",
+        "grainy"
+    ],
+    "chequered": [
+        "black and white squares",
+        "geometric pattern",
+        "intersecting lines",
+        "alternating colours",
+        "regular grid"
+    ],
+    "cobwebbed": [
+        "cobweb-like",
+        "",
+        "delicate",
+        "",
+        "flimsy",
+        "",
+        "fragile",
+        "",
+        "lacy"
+    ],
+    "cracked": [
+        "rough",
+        "uneven",
+        "broken",
+        "jagged",
+        "craggy"
+    ],
+    "crosshatched": [
+        "intersecting lines",
+        "criss-cross pattern",
+        "rough surface",
+        "angular lines",
+        "grid-like shape"
+    ],
+    "crystalline": [
+        "shiny",
+        "refractive",
+        "geometric",
+        "symmetrical",
+        "glittering"
+    ],
+    "dotted": [
+        "small, evenly spaced dots",
+        "soft, subtle pattern",
+        "not overly noticeable",
+        "tiny, round shapes",
+        "smooth, uniform texture"
+    ],
+    "fibrous": [
+        "rough",
+        "coarse",
+        "stiff",
+        "stringy",
+        "fibrous"
+    ],
+    "flecked": [
+        "speckled",
+        "variegated",
+        "irregular",
+        "dotted",
+        "multicolored"
+    ],
+    "freckled": [
+        "speckled",
+        "spotted",
+        "dotted",
+        "variegated",
+        "flecked"
+    ],
+    "frilly": [
+        "soft",
+        "flowing",
+        "ruffled",
+        "delicate",
+        "lacy"
+    ],
+    "gauzy": [
+        "soft",
+        "light",
+        "sheer",
+        "delicate",
+        "airy"
+    ],
+    "grid": [
+        "square shaped",
+        "evenly spaced",
+        "intersecting lines",
+        "geometric pattern",
+        "regularly spaced"
+    ],
+    "grooved": [
+        "rough",
+        "irregular",
+        "grooved",
+        "ridged",
+        "uneven"
+    ],
+    "honeycombed": [
+        "hexagonal cells",
+        "interconnected",
+        "waxy",
+        "smooth",
+        "honey-colored"
+    ],
+    "interlaced": [
+        "interlocking strands",
+        "",
+        "crossing over each other",
+        "",
+        "weaving in and out",
+        "",
+        "creating a pattern",
+        "",
+        "visible diamond shapes"
+    ],
+    "knitted": [
+        "soft",
+        "loosely woven",
+        "interlocking loops",
+        "evenly spaced",
+        "cozy"
+    ],
+    "lacelike": [
+        "delicate",
+        "intricate",
+        "fine",
+        "lacy",
+        "flimsy"
+    ],
+    "lined": [
+        "smooth",
+        "rippled",
+        "wavy",
+        "grooved",
+        "textured"
+    ],
+    "marbled": [
+        "swirls of different colors",
+        "varied shades of hues",
+        "intertwined patterns",
+        "soft and smooth",
+        "irregular shapes"
+    ],
+    "matted": [
+        "rough",
+        "unkempt",
+        "tangled",
+        "disheveled",
+        "unruly"
+    ],
+    "meshed": [
+        "interwoven",
+        "threads",
+        "crossing",
+        "each other",
+        "creating a mesh"
+    ],
+    "paisley": [
+        "intricate swirling pattern",
+        "colorful and bright",
+        "abstract shapes",
+        "floral motifs",
+        "distinctive teardrop shape"
+    ],
+    "perforated": [
+        "tiny holes",
+        "uniformly spaced",
+        "round shape",
+        "regular pattern",
+        "punched out design"
+    ],
+    "pitted": [
+        "rough",
+        "irregular",
+        "uneven",
+        "dented",
+        "pockmarked"
+    ],
+    "pleated": [
+        "crisp folds",
+        "sharp edges",
+        "evenly spaced",
+        "geometric pattern",
+        "pleated fabric"
+    ],
+    "polka-dotted": [
+        "brightly colored dots",
+        "varied sizes",
+        "evenly spaced",
+        "on a solid background",
+        "fun and cheerful"
+    ],
+    "porous": [
+        "rough",
+        "uneven",
+        "pitted",
+        "pockmarked",
+        "sponge-like"
+    ],
+    "potholed": [
+        "rough",
+        "uneven",
+        "cracked",
+        "jagged",
+        "irregular"
+    ],
+    "scaly": [
+        "rough",
+        "bumpy",
+        "scaly",
+        "dry",
+        "irregular"
+    ],
+    "smeared": [
+        "blurred",
+        "streaky",
+        "soft",
+        "diffused",
+        "fuzzy"
+    ],
+    "spiralled": [
+        "swirling",
+        "curved lines",
+        "intertwined",
+        "coiled",
+        "intricate"
+    ],
+    "sprinkled": [
+        "tiny dots",
+        "irregularly shaped",
+        "randomly placed",
+        "varying sizes",
+        "speckled appearance"
+    ],
+    "stained": [
+        "dark",
+        "mottled",
+        "splotchy",
+        "uneven",
+        "discolored"
+    ],
+    "stratified": [
+        "layered",
+        "varied",
+        "distinct",
+        "patterned",
+        "organized"
+    ],
+    "striped": [
+        "horizontal stripes",
+        "alternating colors",
+        "thin lines",
+        "geometric pattern",
+        "regular intervals"
+    ],
+    "studded": [
+        "shiny metal studs",
+        "embellished pattern",
+        "refined texture",
+        "luxurious look",
+        "eye-catching design"
+    ],
+    "swirly": [
+        "swirling lines",
+        "intertwined circles",
+        "wavy shapes",
+        "curved patterns",
+        "spiraling designs"
+    ],
+    "veined": [
+        "rough",
+        "irregular",
+        "cracked",
+        "bumpy",
+        "veined"
+    ],
+    "waffled": [
+        "crispy",
+        "irregular",
+        "raised",
+        "honeycomb",
+        "grid-like"
+    ],
+    "woven": [
+        "interlocking threads",
+        "tightly knit fabric",
+        "visible weave",
+        "crossed yarns",
+        "varied patterns"
+    ],
+    "wrinkled": [
+        "crinkled",
+        "creased",
+        "folded",
+        "puckered",
+        "wrinkled"
+    ],
+    "zigzagged": [
+        "wavy lines",
+        "intersecting curves",
+        "alternating pattern",
+        "angular shapes",
+        "geometric design"
+    ]
+}

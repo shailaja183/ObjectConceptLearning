@@ -1,0 +1,237 @@
+{
+    "banded": [
+        "striped",
+        "ribbed",
+        "patterned"
+    ],
+    "blotchy": [
+        "splotchy",
+        "mottled",
+        "irregular"
+    ],
+    "braided": [
+        "intertwined strands",
+        "twisted pattern",
+        "rope-like appearance"
+    ],
+    "bubbly": [
+        "crisp",
+        "light",
+        "foamy"
+    ],
+    "bumpy": [
+        "rough",
+        "uneven",
+        "irregular"
+    ],
+    "chequered": [
+        "geometric",
+        "black & white",
+        "intersecting squares"
+    ],
+    "cobwebbed": [
+        "dusty",
+        "frayed",
+        "spidersilk"
+    ],
+    "cracked": [
+        "rough",
+        "uneven",
+        "craggy"
+    ],
+    "crosshatched": [
+        "lines intersecting",
+        "varied angles",
+        "rough surface"
+    ],
+    "crystalline": [
+        "sharp",
+        "geometric",
+        "glittering"
+    ],
+    "dotted": [
+        "polka-dotted",
+        "dotted pattern",
+        "tiny circles"
+    ],
+    "fibrous": [
+        "rough",
+        "stiff",
+        "fibrous"
+    ],
+    "flecked": [
+        "speckled",
+        "variegated",
+        "mottled"
+    ],
+    "freckled": [
+        "speckled",
+        "dotted",
+        "splotchy"
+    ],
+    "frilly": [
+        "soft",
+        "delicate",
+        "fluffy"
+    ],
+    "gauzy": [
+        "soft",
+        "light",
+        "airy"
+    ],
+    "grid": [
+        "squares of equal size",
+        "intersecting lines",
+        "geometric pattern"
+    ],
+    "grooved": [
+        "rough",
+        "irregular",
+        "grooves"
+    ],
+    "honeycombed": [
+        "hexagonal",
+        "raised surface",
+        "smooth edges"
+    ],
+    "interlaced": [
+        "interwoven",
+        "threaded",
+        "braided"
+    ],
+    "knitted": [
+        "soft",
+        "squishy",
+        "textured"
+    ],
+    "lacelike": [
+        "delicate",
+        "intricate",
+        "elegant"
+    ],
+    "lined": [
+        "smooth",
+        "rippled",
+        "irregular"
+    ],
+    "marbled": [
+        "smooth",
+        "swirled",
+        "varied"
+    ],
+    "matted": [
+        "rough",
+        "unkempt",
+        "frayed"
+    ],
+    "meshed": [
+        "interwoven threads",
+        "geometric shapes",
+        "varied colors"
+    ],
+    "paisley": [
+        "intricate swirls",
+        "vibrant colors",
+        "floral motifs"
+    ],
+    "perforated": [
+        "holes",
+        "dotted",
+        "pattern"
+    ],
+    "pitted": [
+        "rough",
+        "irregular",
+        "dented"
+    ],
+    "pleated": [
+        "crisp",
+        "folded",
+        "structured"
+    ],
+    "polka-dotted": [
+        "bright",
+        "vibrant",
+        "dotty"
+    ],
+    "porous": [
+        "rough",
+        "uneven",
+        "pitted"
+    ],
+    "potholed": [
+        "rough",
+        "uneven",
+        "cracked"
+    ],
+    "scaly": [
+        "rough",
+        "scaly",
+        "gritty"
+    ],
+    "smeared": [
+        "smudged",
+        "blurred",
+        "mottled"
+    ],
+    "spiralled": [
+        "swirling",
+        "twisting",
+        "corkscrew"
+    ],
+    "sprinkled": [
+        "speckled",
+        "dotted",
+        "splattered"
+    ],
+    "stained": [
+        "dark",
+        "mottled",
+        "vibrant"
+    ],
+    "stratified": [
+        "multilayered",
+        "varied colors",
+        "distinct patterns"
+    ],
+    "striped": [
+        "stripes of color",
+        "varying widths",
+        "alternating shades"
+    ],
+    "studded": [
+        "rough",
+        "edgy",
+        "sparkly"
+    ],
+    "swirly": [
+        "swirling",
+        "curls",
+        "vortex"
+    ],
+    "veined": [
+        "rough",
+        "irregular",
+        "organic"
+    ],
+    "waffled": [
+        "crispy",
+        "irregular",
+        "grid-like"
+    ],
+    "woven": [
+        "intertwined threads",
+        "varied colors",
+        "intricate pattern"
+    ],
+    "wrinkled": [
+        "rough",
+        "uneven",
+        "crinkled"
+    ],
+    "zigzagged": [
+        "rough",
+        "irregular",
+        "jagged"
+    ]
+}

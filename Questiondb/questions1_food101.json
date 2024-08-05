@@ -1,0 +1,305 @@
+{
+    "apple_pie": [
+        "Does the food in the image have golden brown and delicious?"
+    ],
+    "baby_back_ribs": [
+        "Does the food in the image have tender and juicy?"
+    ],
+    "baklava": [
+        "Does the food in the image have flaky layers of pastry filled with nuts and syrup?"
+    ],
+    "beef_carpaccio": [
+        "Does the food in the image have thinly-sliced raw beef?"
+    ],
+    "beef_tartare": [
+        "Does the food in the image have raw beef, finely chopped and seasoned?"
+    ],
+    "beet_salad": [
+        "Does the food in the image have vibrant and colorful?"
+    ],
+    "beignets": [
+        "Does the food in the image have pillowy fried dough?"
+    ],
+    "bibimbap": [
+        "Does the food in the image have a colorful mix of vegetables and rice?"
+    ],
+    "bread_pudding": [
+        "Does the food in the image have warm, creamy, and comforting?"
+    ],
+    "breakfast_burrito": [
+        "Does the food in the image have warm and savory wrap?"
+    ],
+    "bruschetta": [
+        "Does the food in the image have toasted bread topped with tomatoes and herbs?"
+    ],
+    "caesar_salad": [
+        "Does the food in the image have crisp romaine lettuce, croutons, and parmesan cheese?"
+    ],
+    "cannoli": [
+        "Does the food in the image have crispy pastry shell filled with sweet, creamy filling?"
+    ],
+    "caprese_salad": [
+        "Does the food in the image have fresh, colorful, and appetizing?"
+    ],
+    "carrot_cake": [
+        "Does the food in the image have moist and fluffy with a sweet cream cheese frosting?"
+    ],
+    "ceviche": [
+        "Does the food in the image have fresh, bright, and flavorful?"
+    ],
+    "cheesecake": [
+        "Does the food in the image have rich and creamy?"
+    ],
+    "cheese_plate": [
+        "Does the food in the image have an array of delicious cheeses?"
+    ],
+    "chicken_curry": [
+        "Does the food in the image have warm, creamy, and full of flavor?"
+    ],
+    "chicken_quesadilla": [
+        "Does the food in the image have golden brown and cheesy?"
+    ],
+    "chicken_wings": [
+        "Does the food in the image have crispy and golden?"
+    ],
+    "chocolate_cake": [
+        "Does the food in the image have rich and moist?"
+    ],
+    "chocolate_mousse": [
+        "Does the food in the image have smooth and creamy?"
+    ],
+    "churros": [
+        "Does the food in the image have crispy, golden-brown rods?"
+    ],
+    "clam_chowder": [
+        "Does the food in the image have creamy and thick?"
+    ],
+    "club_sandwich": [
+        "Does the food in the image have layers of meat, cheese, and veggies between two slices of bread?"
+    ],
+    "crab_cakes": [
+        "Does the food in the image have crispy golden brown exterior, fluffy and flavorful inside?"
+    ],
+    "creme_brulee": [
+        "Does the food in the image have crispy caramelized top?"
+    ],
+    "croque_madame": [
+        "Does the food in the image have crispy, cheesy sandwich topped with a fried egg?"
+    ],
+    "cup_cakes": [
+        "Does the food in the image have deliciously decorated treats?"
+    ],
+    "deviled_eggs": [
+        "Does the food in the image have creamy, yellow-filled eggs?"
+    ],
+    "donuts": [
+        "Does the food in the image have round and sweet?"
+    ],
+    "dumplings": [
+        "Does the food in the image have small, pillow-shaped pockets of dough?"
+    ],
+    "edamame": [
+        "Does the food in the image have small green pods?"
+    ],
+    "eggs_benedict": [
+        "Does the food in the image have eggs poached on top of ham and an english muffin, topped with hollandaise sauce?"
+    ],
+    "escargots": [
+        "Does the food in the image have slimy snail-shaped shells?"
+    ],
+    "falafel": [
+        "Does the food in the image have crispy golden brown balls?"
+    ],
+    "filet_mignon": [
+        "Does the food in the image have tender, juicy steak?"
+    ],
+    "fish_and_chips": [
+        "Does the food in the image have crispy fried fish and potatoes?"
+    ],
+    "foie_gras": [
+        "Does the food in the image have rich, creamy texture?"
+    ],
+    "french_fries": [
+        "Does the food in the image have golden and crispy?"
+    ],
+    "french_onion_soup": [
+        "Does the food in the image have golden brown, topped with melted cheese?"
+    ],
+    "french_toast": [
+        "Does the food in the image have crispy golden brown?"
+    ],
+    "fried_calamari": [
+        "Does the food in the image have crispy golden rings?"
+    ],
+    "fried_rice": [
+        "Does the food in the image have crispy and golden?"
+    ],
+    "frozen_yogurt": [
+        "Does the food in the image have smooth and creamy texture?"
+    ],
+    "garlic_bread": [
+        "Does the food in the image have golden brown and buttery?"
+    ],
+    "gnocchi": [
+        "Does the food in the image have small, pillow-shaped dumplings?"
+    ],
+    "greek_salad": [
+        "Does the food in the image have fresh and colorful?"
+    ],
+    "grilled_cheese_sandwich": [
+        "Does the food in the image have golden brown and gooey?"
+    ],
+    "grilled_salmon": [
+        "Does the food in the image have golden brown and flaky?"
+    ],
+    "guacamole": [
+        "Does the food in the image have green and creamy?"
+    ],
+    "gyoza": [
+        "Does the food in the image have crispy on the outside, juicy on the inside?"
+    ],
+    "hamburger": [
+        "Does the food in the image have a juicy, beef patty sandwiched between two buns?"
+    ],
+    "hot_and_sour_soup": [
+        "Does the food in the image have vibrant and flavorful?"
+    ],
+    "hot_dog": [
+        "Does the food in the image have grilled sausage in a bun?"
+    ],
+    "huevos_rancheros": [
+        "Does the food in the image have eggs, beans, and salsa on a tortilla?"
+    ],
+    "hummus": [
+        "Does the food in the image have smooth and creamy?"
+    ],
+    "ice_cream": [
+        "Does the food in the image have smooth and creamy?"
+    ],
+    "lasagna": [
+        "Does the food in the image have layers of pasta, cheese, and sauce?"
+    ],
+    "lobster_bisque": [
+        "Does the food in the image have creamy and rich?"
+    ],
+    "lobster_roll_sandwich": [
+        "Does the food in the image have buttery bun filled with succulent lobster meat?"
+    ],
+    "macaroni_and_cheese": [
+        "Does the food in the image have creamy and cheesy?"
+    ],
+    "macarons": [
+        "Does the food in the image have delicate, colorful shells?"
+    ],
+    "miso_soup": [
+        "Does the food in the image have light brown broth with floating pieces of tofu?"
+    ],
+    "mussels": [
+        "Does the food in the image have small, dark-shelled bivalves?"
+    ],
+    "nachos": [
+        "Does the food in the image have crispy chips topped with melted cheese?"
+    ],
+    "omelette": [
+        "Does the food in the image have fluffy and golden?"
+    ],
+    "onion_rings": [
+        "Does the food in the image have crispy golden rings?"
+    ],
+    "oysters": [
+        "Does the food in the image have slimy and grayish-white?"
+    ],
+    "pad_thai": [
+        "Does the food in the image have stir-fried noodles with vegetables and peanuts?"
+    ],
+    "paella": [
+        "Does the food in the image have colorful, flavorful rice dish?"
+    ],
+    "pancakes": [
+        "Does the food in the image have fluffy and golden brown?"
+    ],
+    "panna_cotta": [
+        "Does the food in the image have smooth and creamy?"
+    ],
+    "peking_duck": [
+        "Does the food in the image have crispy skin, juicy meat?"
+    ],
+    "pho": [
+        "Does the food in the image have aromatic broth with noodles and vegetables?"
+    ],
+    "pizza": [
+        "Does the food in the image have crispy, cheesy, and topped with delicious toppings?"
+    ],
+    "pork_chop": [
+        "Does the food in the image have golden brown and juicy?"
+    ],
+    "poutine": [
+        "Does the food in the image have crispy fries topped with cheese curds and gravy?"
+    ],
+    "prime_rib": [
+        "Does the food in the image have tender and juicy?"
+    ],
+    "pulled_pork_sandwich": [
+        "Does the food in the image have tender, juicy pork piled high on a bun?"
+    ],
+    "ramen": [
+        "Does the food in the image have chewy noodles in a savory broth?"
+    ],
+    "ravioli": [
+        "Does the food in the image have pillow-shaped pasta pockets filled with savory filling?"
+    ],
+    "red_velvet_cake": [
+        "Does the food in the image have rich and moist with a deep red hue?"
+    ],
+    "risotto": [
+        "Does the food in the image have creamy and rich?"
+    ],
+    "samosa": [
+        "Does the food in the image have crispy, triangular-shaped pastry?"
+    ],
+    "sashimi": [
+        "Does the food in the image have thinly sliced raw fish?"
+    ],
+    "scallops": [
+        "Does the food in the image have round, golden-brown discs?"
+    ],
+    "seaweed_salad": [
+        "Does the food in the image have bright green and crunchy?"
+    ],
+    "shrimp_and_grits": [
+        "Does the food in the image have creamy, cheesy grits topped with savory shrimp?"
+    ],
+    "spaghetti_bolognese": [
+        "Does the food in the image have hearty and comforting?"
+    ],
+    "spaghetti_carbonara": [
+        "Does the food in the image have creamy, cheesy pasta?"
+    ],
+    "spring_rolls": [
+        "Does the food in the image have crispy golden cylinders?"
+    ],
+    "steak": [
+        "Does the food in the image have juicy and tender?"
+    ],
+    "strawberry_shortcake": [
+        "Does the food in the image have light and fluffy cake topped with sweet strawberries?"
+    ],
+    "sushi": [
+        "Does the food in the image have tasty morsels of seafood on a bed of rice?"
+    ],
+    "tacos": [
+        "Does the food in the image have tortilla filled with savory fillings?"
+    ],
+    "takoyaki": [
+        "Does the food in the image have ball-shaped savory snack?"
+    ],
+    "tiramisu": [
+        "Does the food in the image have creamy layers of coffee-soaked cake?"
+    ],
+    "tuna_tartare": [
+        "Does the food in the image have tuna tartare is a colorful, diced raw fish dish?"
+    ],
+    "waffles": [
+        "Does the food in the image have crispy and golden-brown?"
+    ]
+}

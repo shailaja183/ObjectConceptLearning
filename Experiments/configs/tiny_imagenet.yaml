@@ -1,0 +1,4 @@
+data_path: "./data/tiny-imagenet" # path to the data folder
+global_sub: "object" # dog/ --> type of the class
+number_of_questions: 1 # 1/3/5 --> number of questions supported
+model: "blip" # blip/ --> model name to evaluate

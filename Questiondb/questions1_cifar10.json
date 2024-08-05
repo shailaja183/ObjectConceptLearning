@@ -1,0 +1,32 @@
+{
+    "airplane": [
+        "Does the object in the image have a sleek metal bird?"
+    ],
+    "automobile": [
+        "Does the object in the image have modern and sleek?"
+    ],
+    "bird": [
+        "Does the object in the image have small, brown, and sparrow-like?"
+    ],
+    "cat": [
+        "Does the object in the image have fluffy and sleek?"
+    ],
+    "deer": [
+        "Does the object in the image have graceful and majestic?"
+    ],
+    "dog": [
+        "Does the object in the image have fluffy and friendly?"
+    ],
+    "frog": [
+        "Does the object in the image have green and slimy?"
+    ],
+    "horse": [
+        "Does the object in the image have the horse is sleek and majestic?"
+    ],
+    "ship": [
+        "Does the object in the image have a majestic sailing vessel?"
+    ],
+    "truck": [
+        "Does the object in the image have large and boxy?"
+    ]
+}

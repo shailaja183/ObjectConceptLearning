@@ -1,0 +1,4 @@
+data_path: "./data/dogs" # path to the data folder
+global_sub: "dog" # dog/ --> type of the class
+number_of_questions: 3 # 1/3/5 --> number of questions supported
+model: "blip" # blip/ --> model name to evaluate

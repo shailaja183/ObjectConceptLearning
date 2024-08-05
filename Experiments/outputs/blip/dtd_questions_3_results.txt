@@ -1,0 +1,1 @@
+Model:BLIPModel Accuracy is: 88.93617021276596

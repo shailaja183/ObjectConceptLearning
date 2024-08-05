@@ -1,0 +1,52 @@
+{
+    "airplane": [
+        "sleek",
+        "modern",
+        "aerodynamic"
+    ],
+    "automobile": [
+        "sleek design",
+        "shiny exterior",
+        "modern features"
+    ],
+    "bird": [
+        "small",
+        "brightly colored",
+        "long tail"
+    ],
+    "cat": [
+        "fluffy fur",
+        "bright eyes",
+        "pink nose"
+    ],
+    "deer": [
+        "graceful",
+        "elegant",
+        "delicate"
+    ],
+    "dog": [
+        "fluffy",
+        "white fur",
+        "brown eyes"
+    ],
+    "frog": [
+        "green",
+        "bulging eyes",
+        "long legs"
+    ],
+    "horse": [
+        "sleek body",
+        "shiny coat",
+        "strong legs"
+    ],
+    "ship": [
+        "big",
+        "white",
+        "sleek"
+    ],
+    "truck": [
+        "rusty",
+        "dented",
+        "old"
+    ]
+}

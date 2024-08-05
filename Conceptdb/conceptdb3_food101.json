@@ -1,0 +1,507 @@
+{
+    "apple pie": [
+        "golden brown crust",
+        "juicy apple filling",
+        "cinnamon sugar topping"
+    ],
+    "baby back ribs": [
+        "tender",
+        "meaty",
+        "saucy"
+    ],
+    "baklava": [
+        "flaky",
+        "syrupy",
+        "nutty"
+    ],
+    "beef carpaccio": [
+        "thinly-sliced beef",
+        "raw",
+        "covered in sauce"
+    ],
+    "beef tartare": [
+        "chopped beef",
+        "red onions",
+        "capers"
+    ],
+    "beet salad": [
+        "bright red",
+        "crunchy texture",
+        "fresh greens"
+    ],
+    "beignets": [
+        "fluffy",
+        "fried",
+        "covered in sugar"
+    ],
+    "bibimbap": [
+        "colorful",
+        "varied",
+        "delicious"
+    ],
+    "bread pudding": [
+        "soft",
+        "fluffy",
+        "custard-y"
+    ],
+    "breakfast burrito": [
+        "fluffy tortilla",
+        "filled with eggs",
+        "topped with cheese"
+    ],
+    "bruschetta": [
+        "toasted bread",
+        "tomato topping",
+        "basil leaves"
+    ],
+    "caesar salad": [
+        "crisp lettuce",
+        "shredded cheese",
+        "croutons"
+    ],
+    "cannoli": [
+        "crispy shell",
+        "creamy filling",
+        "dust of sugar"
+    ],
+    "caprese salad": [
+        "fresh",
+        "colorful",
+        "delicious"
+    ],
+    "carrot cake": [
+        "moist",
+        "frosted",
+        "carrot-speckled"
+    ],
+    "ceviche": [
+        "brightly colored",
+        "citrus marinated",
+        "fresh seafood"
+    ],
+    "cheesecake": [
+        "smooth",
+        "creamy",
+        "rich"
+    ],
+    "cheese plate": [
+        "colorful array",
+        "variety of textures",
+        "artfully arranged"
+    ],
+    "chicken curry": [
+        "yellowish-orange",
+        "creamy texture",
+        "spicy aroma"
+    ],
+    "chicken quesadilla": [
+        "crispy tortilla",
+        "cheesy filling",
+        "melted cheese"
+    ],
+    "chicken wings": [
+        "crispy",
+        "spicy",
+        "fried"
+    ],
+    "chocolate cake": [
+        "rich",
+        "moist",
+        "chocolatey"
+    ],
+    "chocolate mousse": [
+        "smooth",
+        "light brown",
+        "fluffy"
+    ],
+    "churros": [
+        "crispy",
+        "golden",
+        "stick-shaped"
+    ],
+    "clam chowder": [
+        "creamy",
+        "thick",
+        "white"
+    ],
+    "club sandwich": [
+        "layered",
+        "toasted",
+        "filled"
+    ],
+    "crab cakes": [
+        "golden brown",
+        "crispy exterior",
+        "fluffy interior"
+    ],
+    "creme brulee": [
+        "crispy caramel top",
+        "smooth custard base",
+        "burnt sugar aroma"
+    ],
+    "croque madame": [
+        "crusty bread",
+        "cheese topping",
+        "fried egg"
+    ],
+    "cup cakes": [
+        "fluffy",
+        "frosted",
+        "decorated"
+    ],
+    "deviled eggs": [
+        "yellow yolk filling",
+        "crispy bacon topping",
+        "smooth egg whites"
+    ],
+    "donuts": [
+        "soft",
+        "fluffy",
+        "frosted"
+    ],
+    "dumplings": [
+        "round",
+        "filled with filling",
+        "wrapped in dough"
+    ],
+    "edamame": [
+        "green",
+        "smooth",
+        "pod-like"
+    ],
+    "eggs benedict": [
+        "poached egg",
+        "english muffin",
+        "hollandaise sauce"
+    ],
+    "escargots": [
+        "slimy",
+        "snail-shaped",
+        "brownish-gray"
+    ],
+    "falafel": [
+        "crispy",
+        "golden",
+        "pillow-shaped"
+    ],
+    "filet mignon": [
+        "tender",
+        "juicy",
+        "buttery"
+    ],
+    "fish and chips": [
+        "crispy batter",
+        "flaky fish",
+        "chips on the side"
+    ],
+    "foie gras": [
+        "rich",
+        "creamy",
+        "buttery"
+    ],
+    "french fries": [
+        "crispy",
+        "golden",
+        "thin"
+    ],
+    "french onion soup": [
+        "rich broth",
+        "caramelized onions",
+        "melted cheese"
+    ],
+    "french toast": [
+        "golden brown",
+        "crispy edges",
+        "fluffy center"
+    ],
+    "fried calamari": [
+        "crispy",
+        "golden",
+        "squid rings"
+    ],
+    "fried rice": [
+        "crispy",
+        "golden",
+        "fragrant"
+    ],
+    "frozen yogurt": [
+        "creamy",
+        "smooth",
+        "swirls"
+    ],
+    "garlic bread": [
+        "crispy",
+        "golden",
+        "buttery"
+    ],
+    "gnocchi": [
+        "soft",
+        "pillowy",
+        "doughy"
+    ],
+    "greek salad": [
+        "fresh",
+        "crunchy",
+        "colorful"
+    ],
+    "grilled cheese sandwich": [
+        "golden brown",
+        "melted cheese",
+        "crispy bread"
+    ],
+    "grilled salmon": [
+        "golden brown",
+        "juicy",
+        "flaky"
+    ],
+    "guacamole": [
+        "green",
+        "smooth",
+        "chunky"
+    ],
+    "gyoza": [
+        "crispy",
+        "dumpling-shaped",
+        "fried"
+    ],
+    "hamburger": [
+        "bun",
+        "patty",
+        "toppings"
+    ],
+    "hot and sour soup": [
+        "spicy",
+        "sour",
+        "vibrant"
+    ],
+    "hot dog": [
+        "long and thin",
+        "red and yellow",
+        "bun and sausage"
+    ],
+    "huevos rancheros": [
+        "fried tortilla",
+        "refried beans",
+        "salsa/eggs"
+    ],
+    "hummus": [
+        "creamy",
+        "smooth",
+        "beige"
+    ],
+    "ice cream": [
+        "smooth",
+        "creamy",
+        "colorful"
+    ],
+    "lasagna": [
+        "layered",
+        "cheesey",
+        "tomato-y"
+    ],
+    "lobster bisque": [
+        "creamy",
+        "orange",
+        "smooth"
+    ],
+    "lobster roll sandwich": [
+        "buttery bun",
+        "lobster chunks",
+        "mayonnaise dressing"
+    ],
+    "macaroni and cheese": [
+        "creamy",
+        "cheesy",
+        "pasta"
+    ],
+    "macarons": [
+        "crispy",
+        "colourful",
+        "delicate"
+    ],
+    "miso soup": [
+        "clear broth",
+        "miso paste",
+        "toppings"
+    ],
+    "mussels": [
+        "dark brown",
+        "smooth shell",
+        "round shape"
+    ],
+    "nachos": [
+        "crispy tortilla chips",
+        "topped with cheese",
+        "topped with toppings"
+    ],
+    "omelette": [
+        "yellow",
+        "fluffy",
+        "eggy"
+    ],
+    "onion rings": [
+        "crispy",
+        "golden",
+        "ring shaped"
+    ],
+    "oysters": [
+        "slimy",
+        "grayish-white",
+        "irregular shape"
+    ],
+    "pad thai": [
+        "sweet",
+        "tangy",
+        "noodles"
+    ],
+    "paella": [
+        "colorful",
+        "savory",
+        "aromatic"
+    ],
+    "pancakes": [
+        "fluffy",
+        "golden brown",
+        "round"
+    ],
+    "panna cotta": [
+        "smooth",
+        "creamy",
+        "jiggly"
+    ],
+    "peking duck": [
+        "crispy skin",
+        "moist meat",
+        "rich sauce"
+    ],
+    "pho": [
+        "noodle soup",
+        "herbs & spices",
+        "beef broth"
+    ],
+    "pizza": [
+        "crusty",
+        "cheesy",
+        "topped"
+    ],
+    "pork chop": [
+        "crispy",
+        "golden brown",
+        "juicy"
+    ],
+    "poutine": [
+        "crispy fries",
+        "gravy",
+        "cheese curds"
+    ],
+    "prime rib": [
+        "juicy",
+        "tender",
+        "dark brown"
+    ],
+    "pulled pork sandwich": [
+        "juicy",
+        "tender",
+        "bbq sauce"
+    ],
+    "ramen": [
+        "noodles in broth",
+        "topped with vegetables",
+        "rich and savory"
+    ],
+    "ravioli": [
+        "filled pasta pockets",
+        "crescent-shaped",
+        "cheese or meat filling"
+    ],
+    "red velvet cake": [
+        "rich red color",
+        "creamy frosting",
+        "moist texture"
+    ],
+    "risotto": [
+        "creamy",
+        "smooth",
+        "cheesy"
+    ],
+    "samosa": [
+        "crispy",
+        "spicy",
+        "potato-filled"
+    ],
+    "sashimi": [
+        "thinly sliced",
+        "raw fish",
+        "brightly colored"
+    ],
+    "scallops": [
+        "creamy white",
+        "round shape",
+        "smooth texture"
+    ],
+    "seaweed salad": [
+        "green",
+        "crunchy",
+        "slimy"
+    ],
+    "shrimp and grits": [
+        "creamy",
+        "cheesy",
+        "spicy"
+    ],
+    "spaghetti bolognese": [
+        "red sauce",
+        "noodles",
+        "ground beef"
+    ],
+    "spaghetti carbonara": [
+        "creamy",
+        "cheesy",
+        "bacon-y"
+    ],
+    "spring rolls": [
+        "crispy",
+        "golden",
+        "cylindrical"
+    ],
+    "steak": [
+        "juicy",
+        "tender",
+        "charred"
+    ],
+    "strawberry shortcake": [
+        "fluffy biscuit",
+        "fresh strawberries",
+        "whipped cream"
+    ],
+    "sushi": [
+        "bright colors",
+        "varied shapes",
+        "delicate textures"
+    ],
+    "tacos": [
+        "soft",
+        "tortilla shell",
+        "filled with meat"
+    ],
+    "takoyaki": [
+        "round",
+        "crispy",
+        "savory"
+    ],
+    "tiramisu": [
+        "creamy",
+        "coffee-flavored",
+        "layered"
+    ],
+    "tuna tartare": [
+        "freshly-chopped tuna",
+        "crispy vegetables",
+        "avocado slices"
+    ],
+    "waffles": [
+        "light and fluffy",
+        "golden brown",
+        "crispy edges"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "airplane": [
+        "sleek",
+        "metallic",
+        "pointed wings",
+        "long body",
+        "white and silver"
+    ],
+    "automobile": [
+        "sleek design",
+        "shiny black exterior",
+        "four doors",
+        "alloy wheels",
+        "sporty look"
+    ],
+    "bird": [
+        "small and slender",
+        "long and pointed beak",
+        "brown and white feathers",
+        "white eye-ring",
+        "long tail feathers"
+    ],
+    "cat": [
+        "fluffy fur",
+        "bright green eyes",
+        "small nose",
+        "long tail",
+        "white paws"
+    ],
+    "deer": [
+        "large, brown eyes",
+        "long, graceful neck",
+        "reddish-brown fur",
+        "white spots",
+        "long, thin legs"
+    ],
+    "dog": [
+        "fluffy white fur",
+        "big brown eyes",
+        "pointy ears",
+        "long snout",
+        "curly tail"
+    ],
+    "frog": [
+        "green",
+        "smooth skin",
+        "long legs",
+        "bulging eyes",
+        "webbed feet"
+    ],
+    "horse": [
+        "sleek body",
+        "long mane",
+        "muscular legs",
+        "dark coat",
+        "bright eyes"
+    ],
+    "ship": [
+        "large",
+        "white",
+        "pointy bow",
+        "red stripes",
+        "two masts"
+    ],
+    "truck": [
+        "big",
+        "red",
+        "rusty",
+        "dented",
+        "dirty"
+    ]
+}

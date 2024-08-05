@@ -1,0 +1,302 @@
+{
+    "beaver": [
+        "a large, brown, flat-tailed rodent."
+    ],
+    "dolphin": [
+        "smooth and sleek."
+    ],
+    "otter": [
+        "cute and playful."
+    ],
+    "seal": [
+        "a black and white seal with a curved tail."
+    ],
+    "whale": [
+        "gigantic and majestic."
+    ],
+    "aquarium fish": [
+        "brightly colored and vibrant."
+    ],
+    "flatfish": [
+        "flat and oval-shaped."
+    ],
+    "ray": [
+        "a straight line extending from a point."
+    ],
+    "shark": [
+        "large and menacing."
+    ],
+    "trout": [
+        "sleek and silver."
+    ],
+    "orchids": [
+        "beautiful, delicate blooms."
+    ],
+    "poppies": [
+        "vibrant red petals."
+    ],
+    "roses": [
+        "beautiful, vibrant red."
+    ],
+    "sunflowers": [
+        "bright and cheerful."
+    ],
+    "tulips": [
+        "vibrant and colorful."
+    ],
+    "bottles": [
+        "clear glass bottles with labels."
+    ],
+    "bowls": [
+        "smooth, curved lines."
+    ],
+    "cans": [
+        "cans with colorful designs."
+    ],
+    "cups": [
+        "cups with colorful designs."
+    ],
+    "plates": [
+        "colorful and intricate designs."
+    ],
+    "apples": [
+        "\"bright and juicy.\""
+    ],
+    "mushrooms": [
+        "small, brown, and umbrella-shaped."
+    ],
+    "oranges": [
+        "bright and juicy."
+    ],
+    "pears": [
+        "\"ripe and juicy.\""
+    ],
+    "sweet peppers": [
+        "bright and colorful."
+    ],
+    "clock": [
+        "old-fashioned, round face."
+    ],
+    "computer keyboard": [
+        "\"qwerty layout of keys.\""
+    ],
+    "lamp": [
+        "bright and modern."
+    ],
+    "telephone": [
+        "a small rectangular device with a keypad and receiver."
+    ],
+    "television": [
+        "modern, sleek design."
+    ],
+    "bed": [
+        "soft and inviting."
+    ],
+    "chair": [
+        "comfortable and modern."
+    ],
+    "couch": [
+        "comfortable and stylish."
+    ],
+    "table": [
+        "clean and organized."
+    ],
+    "wardrobe": [
+        "stylish and modern."
+    ],
+    "bee": [
+        "small and fuzzy."
+    ],
+    "beetle": [
+        "small and shiny."
+    ],
+    "butterfly": [
+        "brightly colored wings."
+    ],
+    "caterpillar": [
+        "a fuzzy, striped caterpillar."
+    ],
+    "cockroach": [
+        "long, flat, and brown."
+    ],
+    "bear": [
+        "fluffy and brown."
+    ],
+    "leopard": [
+        "a spotted, powerful predator."
+    ],
+    "lion": [
+        "majestic and powerful."
+    ],
+    "tiger": [
+        "fierce orange stripes."
+    ],
+    "wolf": [
+        "fierce and wild."
+    ],
+    "bridge": [
+        "a majestic arch spanning the river."
+    ],
+    "castle": [
+        "a majestic fortress."
+    ],
+    "house": [
+        "\"cozy and inviting.\""
+    ],
+    "road": [
+        "windy and winding."
+    ],
+    "skyscraper": [
+        "tall and imposing."
+    ],
+    "cloud": [
+        "cottony white wisps in the sky."
+    ],
+    "forest": [
+        "tall trees and lush foliage."
+    ],
+    "mountain": [
+        "majestic and imposing."
+    ],
+    "plain": [
+        "flat and grassy."
+    ],
+    "sea": [
+        "the sea is a vast expanse of blue."
+    ],
+    "camel": [
+        "long-necked and humped."
+    ],
+    "cattle": [
+        "the cattle is large and brown."
+    ],
+    "chimpanzee": [
+        "a furry, black and tan primate."
+    ],
+    "elephant": [
+        "large and gray."
+    ],
+    "kangaroo": [
+        "long-legged marsupial with a large tail."
+    ],
+    "fox": [
+        "the fox has a sleek, reddish-orange coat."
+    ],
+    "porcupine": [
+        "a spiky, furry creature."
+    ],
+    "possum": [
+        "furry, long-tailed marsupial."
+    ],
+    "raccoon": [
+        "\"a bushy-tailed, masked bandit.\""
+    ],
+    "skunk": [
+        "black and white fur, bushy tail."
+    ],
+    "crab": [
+        "small and round with pincers."
+    ],
+    "lobster": [
+        "red and spiny."
+    ],
+    "snail": [
+        "slow and slimy."
+    ],
+    "spider": [
+        "long-legged and hairy."
+    ],
+    "worm": [
+        "long and slimy."
+    ],
+    "baby": [
+        "adorable and chubby."
+    ],
+    "boy": [
+        "the boy looks handsome."
+    ],
+    "girl": [
+        "pretty and petite."
+    ],
+    "man": [
+        "tall and slim."
+    ],
+    "woman": [
+        "she looks beautiful."
+    ],
+    "crocodile": [
+        "large and scaly."
+    ],
+    "dinosaur": [
+        "large, reptilian creature."
+    ],
+    "lizard": [
+        "long-bodied, scaly reptile."
+    ],
+    "snake": [
+        "slithering and slimy."
+    ],
+    "turtle": [
+        "slow and steady."
+    ],
+    "hamster": [
+        "fluffy and round."
+    ],
+    "mouse": [
+        "small, furry, with a long tail."
+    ],
+    "rabbit": [
+        "fluffy and white."
+    ],
+    "shrew": [
+        "small, furry, and pointy-nosed."
+    ],
+    "squirrel": [
+        "furry and bushy-tailed."
+    ],
+    "maple": [
+        "bright red and orange leaves."
+    ],
+    "oak": [
+        "majestic and strong."
+    ],
+    "palm": [
+        "tall and slender."
+    ],
+    "pine": [
+        "tall and evergreen."
+    ],
+    "willow": [
+        "weeping willow tree."
+    ],
+    "bicycle": [
+        "a sleek, black bike."
+    ],
+    "bus": [
+        "large and boxy."
+    ],
+    "motorcycle": [
+        "a sleek, black two-wheeled machine."
+    ],
+    "pickup truck": [
+        "large and rugged."
+    ],
+    "train": [
+        "long and sleek."
+    ],
+    "lawn-mower": [
+        "small, green, and noisy."
+    ],
+    "rocket": [
+        "a tall, slim, pointed object."
+    ],
+    "streetcar": [
+        "old-fashioned, vintage style."
+    ],
+    "tank": [
+        "a large, metal, rectangular container."
+    ],
+    "tractor": [
+        "old-fashioned, bright red."
+    ]
+}

@@ -1,0 +1,331 @@
+{
+    "banded": [
+        "Does the texture in the image have stripes of color?",
+        "Does the texture in the image have alternating bands?",
+        "Does the texture in the image have gradient effect?",
+        "Does the texture in the image have colorful pattern?",
+        "Does the texture in the image have geometric shapes?"
+    ],
+    "blotchy": [
+        "Does the texture in the image have rough?",
+        "Does the texture in the image have patchy?",
+        "Does the texture in the image have splotchy?",
+        "Does the texture in the image have uneven?",
+        "Does the texture in the image have discolored?"
+    ],
+    "braided": [
+        "Does the texture in the image have intertwined strands?",
+        "Does the texture in the image have thick and thin sections?",
+        "Does the texture in the image have varying colors?",
+        "Does the texture in the image have soft and smooth?",
+        "Does the texture in the image have intricate pattern?"
+    ],
+    "bubbly": [
+        "Does the texture in the image have crisp?",
+        "Does the texture in the image have light?",
+        "Does the texture in the image have foamy?",
+        "Does the texture in the image have bubbling?",
+        "Does the texture in the image have airy?"
+    ],
+    "bumpy": [
+        "Does the texture in the image have rough?",
+        "Does the texture in the image have uneven?",
+        "Does the texture in the image have irregular?",
+        "Does the texture in the image have ridged?",
+        "Does the texture in the image have grainy?"
+    ],
+    "chequered": [
+        "Does the texture in the image have black and white squares?",
+        "Does the texture in the image have geometric pattern?",
+        "Does the texture in the image have intersecting lines?",
+        "Does the texture in the image have alternating colours?",
+        "Does the texture in the image have regular grid?"
+    ],
+    "cobwebbed": [
+        "Does the texture in the image have cobweb-like?",
+        "Does the texture in the image have delicate?",
+        "Does the texture in the image have flimsy?",
+        "Does the texture in the image have fragile?",
+        "Does the texture in the image have lacy?"
+    ],
+    "cracked": [
+        "Does the texture in the image have rough?",
+        "Does the texture in the image have uneven?",
+        "Does the texture in the image have broken?",
+        "Does the texture in the image have jagged?",
+        "Does the texture in the image have craggy?"
+    ],
+    "crosshatched": [
+        "Does the texture in the image have intersecting lines?",
+        "Does the texture in the image have criss-cross pattern?",
+        "Does the texture in the image have rough surface?",
+        "Does the texture in the image have angular lines?",
+        "Does the texture in the image have grid-like shape?"
+    ],
+    "crystalline": [
+        "Does the texture in the image have shiny?",
+        "Does the texture in the image have refractive?",
+        "Does the texture in the image have geometric?",
+        "Does the texture in the image have symmetrical?",
+        "Does the texture in the image have glittering?"
+    ],
+    "dotted": [
+        "Does the texture in the image have small, evenly spaced dots?",
+        "Does the texture in the image have soft, subtle pattern?",
+        "Does the texture in the image have not overly noticeable?",
+        "Does the texture in the image have tiny, round shapes?",
+        "Does the texture in the image have smooth, uniform texture?"
+    ],
+    "fibrous": [
+        "Does the texture in the image have rough?",
+        "Does the texture in the image have coarse?",
+        "Does the texture in the image have stiff?",
+        "Does the texture in the image have stringy?",
+        "Does the texture in the image have fibrous?"
+    ],
+    "flecked": [
+        "Does the texture in the image have speckled?",
+        "Does the texture in the image have variegated?",
+        "Does the texture in the image have irregular?",
+        "Does the texture in the image have dotted?",
+        "Does the texture in the image have multicolored?"
+    ],
+    "freckled": [
+        "Does the texture in the image have speckled?",
+        "Does the texture in the image have spotted?",
+        "Does the texture in the image have dotted?",
+        "Does the texture in the image have variegated?",
+        "Does the texture in the image have flecked?"
+    ],
+    "frilly": [
+        "Does the texture in the image have soft?",
+        "Does the texture in the image have flowing?",
+        "Does the texture in the image have ruffled?",
+        "Does the texture in the image have delicate?",
+        "Does the texture in the image have lacy?"
+    ],
+    "gauzy": [
+        "Does the texture in the image have soft?",
+        "Does the texture in the image have light?",
+        "Does the texture in the image have sheer?",
+        "Does the texture in the image have delicate?",
+        "Does the texture in the image have airy?"
+    ],
+    "grid": [
+        "Does the texture in the image have square shaped?",
+        "Does the texture in the image have evenly spaced?",
+        "Does the texture in the image have intersecting lines?",
+        "Does the texture in the image have geometric pattern?",
+        "Does the texture in the image have regularly spaced?"
+    ],
+    "grooved": [
+        "Does the texture in the image have rough?",
+        "Does the texture in the image have irregular?",
+        "Does the texture in the image have grooved?",
+        "Does the texture in the image have ridged?",
+        "Does the texture in the image have uneven?"
+    ],
+    "honeycombed": [
+        "Does the texture in the image have hexagonal cells?",
+        "Does the texture in the image have interconnected?",
+        "Does the texture in the image have waxy?",
+        "Does the texture in the image have smooth?",
+        "Does the texture in the image have honey-colored?"
+    ],
+    "interlaced": [
+        "Does the texture in the image have interlocking strands?",
+        "Does the texture in the image have crossing over each other?",
+        "Does the texture in the image have weaving in and out?",
+        "Does the texture in the image have creating a pattern?",
+        "Does the texture in the image have visible diamond shapes?"
+    ],
+    "knitted": [
+        "Does the texture in the image have soft?",
+        "Does the texture in the image have loosely woven?",
+        "Does the texture in the image have interlocking loops?",
+        "Does the texture in the image have evenly spaced?",
+        "Does the texture in the image have cozy?"
+    ],
+    "lacelike": [
+        "Does the texture in the image have delicate?",
+        "Does the texture in the image have intricate?",
+        "Does the texture in the image have fine?",
+        "Does the texture in the image have lacy?",
+        "Does the texture in the image have flimsy?"
+    ],
+    "lined": [
+        "Does the texture in the image have smooth?",
+        "Does the texture in the image have rippled?",
+        "Does the texture in the image have wavy?",
+        "Does the texture in the image have grooved?",
+        "Does the texture in the image have textured?"
+    ],
+    "marbled": [
+        "Does the texture in the image have swirls of different colors?",
+        "Does the texture in the image have varied shades of hues?",
+        "Does the texture in the image have intertwined patterns?",
+        "Does the texture in the image have soft and smooth?",
+        "Does the texture in the image have irregular shapes?"
+    ],
+    "matted": [
+        "Does the texture in the image have rough?",
+        "Does the texture in the image have unkempt?",
+        "Does the texture in the image have tangled?",
+        "Does the texture in the image have disheveled?",
+        "Does the texture in the image have unruly?"
+    ],
+    "meshed": [
+        "Does the texture in the image have interwoven?",
+        "Does the texture in the image have threads?",
+        "Does the texture in the image have crossing?",
+        "Does the texture in the image have each other?",
+        "Does the texture in the image have creating a mesh?"
+    ],
+    "paisley": [
+        "Does the texture in the image have intricate swirling pattern?",
+        "Does the texture in the image have colorful and bright?",
+        "Does the texture in the image have abstract shapes?",
+        "Does the texture in the image have floral motifs?",
+        "Does the texture in the image have distinctive teardrop shape?"
+    ],
+    "perforated": [
+        "Does the texture in the image have tiny holes?",
+        "Does the texture in the image have uniformly spaced?",
+        "Does the texture in the image have round shape?",
+        "Does the texture in the image have regular pattern?",
+        "Does the texture in the image have punched out design?"
+    ],
+    "pitted": [
+        "Does the texture in the image have rough?",
+        "Does the texture in the image have irregular?",
+        "Does the texture in the image have uneven?",
+        "Does the texture in the image have dented?",
+        "Does the texture in the image have pockmarked?"
+    ],
+    "pleated": [
+        "Does the texture in the image have crisp folds?",
+        "Does the texture in the image have sharp edges?",
+        "Does the texture in the image have evenly spaced?",
+        "Does the texture in the image have geometric pattern?",
+        "Does the texture in the image have pleated fabric?"
+    ],
+    "polka-dotted": [
+        "Does the texture in the image have brightly colored dots?",
+        "Does the texture in the image have varied sizes?",
+        "Does the texture in the image have evenly spaced?",
+        "Does the texture in the image have on a solid background?",
+        "Does the texture in the image have fun and cheerful?"
+    ],
+    "porous": [
+        "Does the texture in the image have rough?",
+        "Does the texture in the image have uneven?",
+        "Does the texture in the image have pitted?",
+        "Does the texture in the image have pockmarked?",
+        "Does the texture in the image have sponge-like?"
+    ],
+    "potholed": [
+        "Does the texture in the image have rough?",
+        "Does the texture in the image have uneven?",
+        "Does the texture in the image have cracked?",
+        "Does the texture in the image have jagged?",
+        "Does the texture in the image have irregular?"
+    ],
+    "scaly": [
+        "Does the texture in the image have rough?",
+        "Does the texture in the image have bumpy?",
+        "Does the texture in the image have scaly?",
+        "Does the texture in the image have dry?",
+        "Does the texture in the image have irregular?"
+    ],
+    "smeared": [
+        "Does the texture in the image have blurred?",
+        "Does the texture in the image have streaky?",
+        "Does the texture in the image have soft?",
+        "Does the texture in the image have diffused?",
+        "Does the texture in the image have fuzzy?"
+    ],
+    "spiralled": [
+        "Does the texture in the image have swirling?",
+        "Does the texture in the image have curved lines?",
+        "Does the texture in the image have intertwined?",
+        "Does the texture in the image have coiled?",
+        "Does the texture in the image have intricate?"
+    ],
+    "sprinkled": [
+        "Does the texture in the image have tiny dots?",
+        "Does the texture in the image have irregularly shaped?",
+        "Does the texture in the image have randomly placed?",
+        "Does the texture in the image have varying sizes?",
+        "Does the texture in the image have speckled appearance?"
+    ],
+    "stained": [
+        "Does the texture in the image have dark?",
+        "Does the texture in the image have mottled?",
+        "Does the texture in the image have splotchy?",
+        "Does the texture in the image have uneven?",
+        "Does the texture in the image have discolored?"
+    ],
+    "stratified": [
+        "Does the texture in the image have layered?",
+        "Does the texture in the image have varied?",
+        "Does the texture in the image have distinct?",
+        "Does the texture in the image have patterned?",
+        "Does the texture in the image have organized?"
+    ],
+    "striped": [
+        "Does the texture in the image have horizontal stripes?",
+        "Does the texture in the image have alternating colors?",
+        "Does the texture in the image have thin lines?",
+        "Does the texture in the image have geometric pattern?",
+        "Does the texture in the image have regular intervals?"
+    ],
+    "studded": [
+        "Does the texture in the image have shiny metal studs?",
+        "Does the texture in the image have embellished pattern?",
+        "Does the texture in the image have refined texture?",
+        "Does the texture in the image have luxurious look?",
+        "Does the texture in the image have eye-catching design?"
+    ],
+    "swirly": [
+        "Does the texture in the image have swirling lines?",
+        "Does the texture in the image have intertwined circles?",
+        "Does the texture in the image have wavy shapes?",
+        "Does the texture in the image have curved patterns?",
+        "Does the texture in the image have spiraling designs?"
+    ],
+    "veined": [
+        "Does the texture in the image have rough?",
+        "Does the texture in the image have irregular?",
+        "Does the texture in the image have cracked?",
+        "Does the texture in the image have bumpy?",
+        "Does the texture in the image have veined?"
+    ],
+    "waffled": [
+        "Does the texture in the image have crispy?",
+        "Does the texture in the image have irregular?",
+        "Does the texture in the image have raised?",
+        "Does the texture in the image have honeycomb?",
+        "Does the texture in the image have grid-like?"
+    ],
+    "woven": [
+        "Does the texture in the image have interlocking threads?",
+        "Does the texture in the image have tightly knit fabric?",
+        "Does the texture in the image have visible weave?",
+        "Does the texture in the image have crossed yarns?",
+        "Does the texture in the image have varied patterns?"
+    ],
+    "wrinkled": [
+        "Does the texture in the image have crinkled?",
+        "Does the texture in the image have creased?",
+        "Does the texture in the image have folded?",
+        "Does the texture in the image have puckered?",
+        "Does the texture in the image have wrinkled?"
+    ],
+    "zigzagged": [
+        "Does the texture in the image have wavy lines?",
+        "Does the texture in the image have intersecting curves?",
+        "Does the texture in the image have alternating pattern?",
+        "Does the texture in the image have angular shapes?",
+        "Does the texture in the image have geometric design?"
+    ]
+}

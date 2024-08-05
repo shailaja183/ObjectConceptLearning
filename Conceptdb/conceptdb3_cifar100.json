@@ -1,0 +1,506 @@
+{
+    "beaver": [
+        "large, flat tail",
+        "brown fur",
+        "webbed feet"
+    ],
+    "dolphin": [
+        "smooth",
+        "graceful",
+        "playful"
+    ],
+    "otter": [
+        "cute",
+        "furry",
+        "playful"
+    ],
+    "seal": [
+        "black and white",
+        "smooth fur",
+        "round face"
+    ],
+    "whale": [
+        "gigantic",
+        "smooth skin",
+        "fins and tail"
+    ],
+    "aquarium fish": [
+        "brightly colored",
+        "graceful swimming",
+        "varying sizes"
+    ],
+    "flatfish": [
+        "flattened body",
+        "wide head",
+        "papery skin"
+    ],
+    "ray": [
+        "straight line",
+        "unbounded",
+        "infinite length"
+    ],
+    "shark": [
+        "sharp teeth",
+        "grey body",
+        "fins and tail"
+    ],
+    "trout": [
+        "silver body",
+        "red spots",
+        "streamlined shape"
+    ],
+    "orchids": [
+        "delicate",
+        "vibrant",
+        "elegant"
+    ],
+    "poppies": [
+        "vibrant red",
+        "soft petals",
+        "delicate beauty"
+    ],
+    "roses": [
+        "vibrant red",
+        "soft petals",
+        "fragrant scent"
+    ],
+    "sunflowers": [
+        "bright yellow",
+        "large petals",
+        "tall stems"
+    ],
+    "tulips": [
+        "vibrant",
+        "colorful",
+        "delicate"
+    ],
+    "bottles": [
+        "clear glass",
+        "elongated neck",
+        "embossed design"
+    ],
+    "bowls": [
+        "shiny glaze",
+        "blue and white",
+        "floral pattern"
+    ],
+    "cans": [
+        "shiny silver",
+        "smooth edges",
+        "tall cylindrical shape"
+    ],
+    "cups": [
+        "brightly colored",
+        "patterned design",
+        "floral motifs"
+    ],
+    "plates": [
+        "floral pattern",
+        "blue and white",
+        "delicate design"
+    ],
+    "apples": [
+        "red and shiny",
+        "",
+        "round and juicy",
+        "",
+        "crisp and delicious"
+    ],
+    "mushrooms": [
+        "brown cap",
+        "white stem",
+        "gills underneath"
+    ],
+    "oranges": [
+        "bright",
+        "orange",
+        "smooth"
+    ],
+    "pears": [
+        "juicy",
+        "golden",
+        "smooth"
+    ],
+    "sweet peppers": [
+        "brightly colored",
+        "cone-shaped",
+        "smooth skin"
+    ],
+    "clock": [
+        "antique finish",
+        "roman numerals",
+        "ornate hands"
+    ],
+    "computer keyboard": [
+        "flat",
+        "rectangular",
+        "keys"
+    ],
+    "lamp": [
+        "antique bronze",
+        "",
+        "ornate detailing",
+        "",
+        "tapered shade"
+    ],
+    "telephone": [
+        "retro rotary dial",
+        "plastic handset",
+        "curved design"
+    ],
+    "television": [
+        "modern",
+        "sleek",
+        "minimalistic"
+    ],
+    "bed": [
+        "soft",
+        "white",
+        "comfortable"
+    ],
+    "chair": [
+        "modern",
+        "minimalistic",
+        "stylish"
+    ],
+    "couch": [
+        "modern",
+        "minimalistic",
+        "luxurious"
+    ],
+    "table": [
+        "clean",
+        "modern",
+        "stylish"
+    ],
+    "wardrobe": [
+        "dark wood",
+        "vintage style",
+        "lots of drawers"
+    ],
+    "bee": [
+        "small",
+        "fuzzy",
+        "black & yellow"
+    ],
+    "beetle": [
+        "black",
+        "shiny",
+        "hard shell"
+    ],
+    "butterfly": [
+        "brightly colored",
+        "delicate wings",
+        "slender body"
+    ],
+    "caterpillar": [
+        "green",
+        "furry",
+        "striped"
+    ],
+    "cockroach": [
+        "long antennae",
+        "hard exoskeleton",
+        "brownish color"
+    ],
+    "bear": [
+        "furry",
+        "brown",
+        "big"
+    ],
+    "leopard": [
+        "spotted fur",
+        "powerful frame",
+        "tawny eyes"
+    ],
+    "lion": [
+        "majestic",
+        "fierce",
+        "luxurious"
+    ],
+    "tiger": [
+        "fierce",
+        "striped",
+        "powerful"
+    ],
+    "wolf": [
+        "grey fur",
+        "piercing eyes",
+        "majestic posture"
+    ],
+    "bridge": [
+        "rustic",
+        "aged",
+        "picturesque"
+    ],
+    "castle": [
+        "majestic",
+        "grand",
+        "impressive"
+    ],
+    "house": [
+        "old",
+        "run-down",
+        "unkempt"
+    ],
+    "road": [
+        "busy traffic",
+        "bright lights",
+        "pavement lines"
+    ],
+    "skyscraper": [
+        "tall",
+        "impressive",
+        "modern"
+    ],
+    "cloud": [
+        "cottony white",
+        "fluffy shapes",
+        "vast expanse"
+    ],
+    "forest": [
+        "green and lush",
+        "abundant wildlife",
+        "serene atmosphere"
+    ],
+    "mountain": [
+        "majestic",
+        "rugged",
+        "snow-capped"
+    ],
+    "plain": [
+        "flat terrain",
+        "rolling hills",
+        "open fields"
+    ],
+    "sea": [
+        "calm",
+        "serene",
+        "majestic"
+    ],
+    "camel": [
+        "humped back",
+        "long neck",
+        "furry coat"
+    ],
+    "cattle": [
+        "long horns",
+        "brown fur",
+        "muscular body"
+    ],
+    "chimpanzee": [
+        "long arms",
+        "black fur",
+        "human-like face"
+    ],
+    "elephant": [
+        "large",
+        "grey",
+        "wrinkled"
+    ],
+    "kangaroo": [
+        "long tail",
+        "big feet",
+        "furry body"
+    ],
+    "fox": [
+        "red fur",
+        "pointed ears",
+        "slender muzzle"
+    ],
+    "porcupine": [
+        "spiky",
+        "furry",
+        "round"
+    ],
+    "possum": [
+        "long, pointy snout",
+        "gray fur",
+        "white face and underbelly"
+    ],
+    "raccoon": [
+        "fluffy fur",
+        "black mask",
+        "ringed tail"
+    ],
+    "skunk": [
+        "black and white",
+        "striped fur",
+        "long bushy tail"
+    ],
+    "crab": [
+        "red",
+        "hard shell",
+        "claws"
+    ],
+    "lobster": [
+        "red",
+        "clawed",
+        "shell"
+    ],
+    "snail": [
+        "slow",
+        "slimy",
+        "shell"
+    ],
+    "spider": [
+        "long legs",
+        "hairy body",
+        "bright colors"
+    ],
+    "worm": [
+        "long",
+        "thin",
+        "segmented"
+    ],
+    "baby": [
+        "adorable",
+        "chubby cheeks",
+        "big eyes"
+    ],
+    "boy": [
+        "blonde hair",
+        "blue eyes",
+        "skinny frame"
+    ],
+    "girl": [
+        "pretty",
+        "petite",
+        "blonde"
+    ],
+    "man": [
+        "tall",
+        "dark hair",
+        "broad shoulders"
+    ],
+    "woman": [
+        "beautiful",
+        "elegant",
+        "graceful"
+    ],
+    "crocodile": [
+        "green",
+        "scaly",
+        "sharp teeth"
+    ],
+    "dinosaur": [
+        "big",
+        "scaly",
+        "sharp teeth"
+    ],
+    "lizard": [
+        "green",
+        "scaly",
+        "long tail"
+    ],
+    "snake": [
+        "long",
+        "slender",
+        "scaly"
+    ],
+    "turtle": [
+        "green",
+        "shell",
+        "long neck"
+    ],
+    "hamster": [
+        "furry",
+        "round",
+        "cute"
+    ],
+    "mouse": [
+        "small",
+        "furry",
+        "pointy ears"
+    ],
+    "rabbit": [
+        "fluffy",
+        "long ears",
+        "cute"
+    ],
+    "shrew": [
+        "small",
+        "furry",
+        "pointy nose"
+    ],
+    "squirrel": [
+        "furry",
+        "busy tail",
+        "small ears"
+    ],
+    "maple": [
+        "bright red leaves",
+        "pointed lobes",
+        "smooth bark"
+    ],
+    "oak": [
+        "tall",
+        "broad",
+        "majestic"
+    ],
+    "palm": [
+        "smooth",
+        "green",
+        "fleshy"
+    ],
+    "pine": [
+        "tall and slender",
+        "needle-like leaves",
+        "dark green foliage"
+    ],
+    "willow": [
+        "weeping branches",
+        "silvery leaves",
+        "graceful form"
+    ],
+    "bicycle": [
+        "vintage",
+        "rustic",
+        "brightly colored"
+    ],
+    "bus": [
+        "big",
+        "yellow",
+        "loud"
+    ],
+    "motorcycle": [
+        "sleek",
+        "shiny",
+        "black"
+    ],
+    "pickup truck": [
+        "old",
+        "rusty",
+        "red"
+    ],
+    "train": [
+        "old-fashioned",
+        "rustic",
+        "vintage"
+    ],
+    "lawn-mower": [
+        "green",
+        "rotary blades",
+        "loud engine"
+    ],
+    "rocket": [
+        "pointy nose",
+        "fins at the back",
+        "brightly coloured"
+    ],
+    "streetcar": [
+        "vintage",
+        "red",
+        "white"
+    ],
+    "tank": [
+        "heavy armor",
+        "big gun",
+        "tracks"
+    ],
+    "tractor": [
+        "big",
+        "red",
+        "rusty"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "airplane": [
+        "Does the object in the image have sleek?",
+        "Does the object in the image have modern?",
+        "Does the object in the image have aerodynamic?"
+    ],
+    "automobile": [
+        "Does the object in the image have sleek design?",
+        "Does the object in the image have shiny exterior?",
+        "Does the object in the image have modern features?"
+    ],
+    "bird": [
+        "Does the object in the image have small?",
+        "Does the object in the image have brightly colored?",
+        "Does the object in the image have long tail?"
+    ],
+    "cat": [
+        "Does the object in the image have fluffy fur?",
+        "Does the object in the image have bright eyes?",
+        "Does the object in the image have pink nose?"
+    ],
+    "deer": [
+        "Does the object in the image have graceful?",
+        "Does the object in the image have elegant?",
+        "Does the object in the image have delicate?"
+    ],
+    "dog": [
+        "Does the object in the image have fluffy?",
+        "Does the object in the image have white fur?",
+        "Does the object in the image have brown eyes?"
+    ],
+    "frog": [
+        "Does the object in the image have green?",
+        "Does the object in the image have bulging eyes?",
+        "Does the object in the image have long legs?"
+    ],
+    "horse": [
+        "Does the object in the image have sleek body?",
+        "Does the object in the image have shiny coat?",
+        "Does the object in the image have strong legs?"
+    ],
+    "ship": [
+        "Does the object in the image have big?",
+        "Does the object in the image have white?",
+        "Does the object in the image have sleek?"
+    ],
+    "truck": [
+        "Does the object in the image have rusty?",
+        "Does the object in the image have dented?",
+        "Does the object in the image have old?"
+    ]
+}
